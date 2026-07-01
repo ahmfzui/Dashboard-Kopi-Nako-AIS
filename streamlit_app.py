@@ -431,7 +431,7 @@ with tab2:
         return ""
 
     tbl_styled = tbl_s.style\
-        .applymap(_color_neg_pct, subset=["% Negatif"])\
+        .map(_color_neg_pct, subset=["% Negatif"])\
         .format({"% Negatif":"{:.1f}%"})
     st.dataframe(tbl_styled, use_container_width=True, hide_index=True)
 
