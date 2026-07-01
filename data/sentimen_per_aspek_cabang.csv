@@ -1,0 +1,57 @@
+cabang,aspek,positif,negatif,total
+Cinere,Product,169,8,177
+Cinere,Price,9,6,15
+Cinere,Place,33,9,42
+Cinere,Promotion,3,1,4
+Cinere,People,48,6,54
+Cinere,Process,36,20,56
+Cinere,Physical Evidence,187,35,222
+Kemang,Product,239,11,250
+Kemang,Price,46,7,53
+Kemang,Place,18,10,28
+Kemang,Promotion,5,0,5
+Kemang,People,73,18,91
+Kemang,Process,94,23,117
+Kemang,Physical Evidence,447,21,468
+Tebet,Product,390,31,421
+Tebet,Price,74,25,99
+Tebet,Place,115,53,168
+Tebet,Promotion,4,0,4
+Tebet,People,38,21,59
+Tebet,Process,64,46,110
+Tebet,Physical Evidence,563,170,733
+Grogol,Product,262,33,295
+Grogol,Price,45,22,67
+Grogol,Place,57,7,64
+Grogol,Promotion,2,0,2
+Grogol,People,171,19,190
+Grogol,Process,182,63,245
+Grogol,Physical Evidence,451,100,551
+Senayan Park,Product,362,40,402
+Senayan Park,Price,75,17,92
+Senayan Park,Place,95,17,112
+Senayan Park,Promotion,8,1,9
+Senayan Park,People,63,41,104
+Senayan Park,Process,87,110,197
+Senayan Park,Physical Evidence,617,226,843
+Palmerah,Product,122,19,141
+Palmerah,Price,28,13,41
+Palmerah,Place,22,13,35
+Palmerah,Promotion,2,0,2
+Palmerah,People,28,28,56
+Palmerah,Process,45,49,94
+Palmerah,Physical Evidence,178,74,252
+Abdul Muis,Product,479,80,559
+Abdul Muis,Price,88,23,111
+Abdul Muis,Place,168,7,175
+Abdul Muis,Promotion,4,1,5
+Abdul Muis,People,155,38,193
+Abdul Muis,Process,178,160,338
+Abdul Muis,Physical Evidence,606,178,784
+Ciracas,Product,45,20,65
+Ciracas,Price,18,15,33
+Ciracas,Place,32,22,54
+Ciracas,Promotion,0,0,0
+Ciracas,People,17,10,27
+Ciracas,Process,14,21,35
+Ciracas,Physical Evidence,121,53,174

@@ -1,0 +1,17 @@
+﻿cabang_id,cabang_nama,sentimen,model,jumlah_dokumen,jumlah_topik,coherence_cv,n_neighbors,min_samples,min_cluster_size
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,317,6,0.4143657129050282,15,2,11
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,44,3,0.41180820113628486,10,3,5
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,558,9,0.463466357764876,12,3,17
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,46,4,0.4877074480322112,12,2,5
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,760,5,0.4616791817765546,10,2,20
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,176,3,0.45718139963442134,10,3,6
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,707,6,0.4852806972884916,15,4,10
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,132,8,0.4659561946248436,10,2,6
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,745,4,0.49626765384672505,15,5,20
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,234,4,0.44863826516511307,15,3,6
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,237,6,0.36730185481864575,12,4,6
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,104,7,0.4581638800428069,12,3,5
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,837,8,0.4065289228610819,15,3,15
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,250,6,0.49861304443834203,10,3,11
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,139,4,0.5361747589891566,12,3,8
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,78,3,0.5754392817372397,15,2,9

@@ -1,0 +1,861 @@
+﻿cabang_id,cabang_nama,sentimen,model,topic_id,doc_count,rank,keyword,c_tf_idf_score
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,0,69,1,layan,0.1022998454186584
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,0,69,2,baik,0.07508693262642137
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,0,69,3,pelayanannya,0.06570106604811869
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,0,69,4,layan baik,0.04745454576728465
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,0,69,5,cepat,0.04513700212975464
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,0,69,6,lokasi,0.04046130457306165
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,0,69,7,kakak,0.03901456993667267
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,0,69,8,makan,0.035030511651377036
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,0,69,9,minuman,0.02965909110455291
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,0,69,10,mbak,0.02962030954448862
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,1,51,1,kopinya,0.0697168129298196
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,1,51,2,rasa,0.04467283154856975
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,1,51,3,lagu,0.028864448375889227
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,1,51,4,kesini,0.02631223345058616
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,1,51,5,nongkrong,0.026100434805136404
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,1,51,6,teman,0.025345988550034025
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,1,51,7,susu,0.025345988550034025
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,1,51,8,suasana,0.023121792235893876
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,1,51,9,manisnya,0.023011821289477614
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,1,51,10,beda,0.023011821289477614
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,2,44,1,kopinya,0.22451177045196144
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,2,44,2,kopinya kopinya,0.12158375969503306
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,2,44,3,es,0.06142950733858246
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,2,44,4,es krim,0.05889508098863983
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,2,44,5,krim,0.05889508098863983
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,2,44,6,promo,0.054344301124303065
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,2,44,7,rasa,0.05274927567034507
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,2,44,8,rasa kopinya,0.04863350387801322
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,2,44,9,pagi,0.04660387111163142
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,2,44,10,pesan,0.04660387111163142
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,3,40,1,suasana,0.15758004056418978
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,3,40,2,lezat,0.13940494636234266
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,3,40,3,adem,0.12475550994794696
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,3,40,4,makan,0.08862791974737627
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,3,40,5,chill,0.08554541062900531
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,3,40,6,besar getaran,0.08554541062900531
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,3,40,7,adem skripsi,0.08554541062900531
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,3,40,8,adem comfyy,0.08554541062900531
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,3,40,9,enduul,0.08554541062900531
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,3,40,10,dikala senja,0.08554541062900531
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,4,39,1,nongkrong,0.30004533456661014
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,4,39,2,cozy,0.15555662815274862
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,4,39,3,cozy nongkrong,0.09678079749562858
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,4,39,4,nongkrong cozy,0.09678079749562858
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,4,39,5,nongkrong nongkrong,0.09678079749562858
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,4,39,6,favorit,0.08822337098137711
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,4,39,7,outdoor,0.08218474605270544
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,4,39,8,favorit nongkrong,0.077157283147072
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,4,39,9,nongkrong outdoor,0.077157283147072
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,4,39,10,nongkrong favorit,0.077157283147072
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,5,12,1,kedai,0.05790222098480947
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,5,12,2,kopinya,0.05345997762779889
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,5,12,3,layan,0.05190600029131397
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,5,12,4,es,0.048757949770982495
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,5,12,5,ramen,0.046746319887844175
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,5,12,6,menjual,0.046746319887844175
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,5,12,7,besok,0.046746319887844175
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,5,12,8,rasa,0.04186825916435461
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,5,12,9,area,0.04057849581094741
+1,Cinere,POS,Cabang 1 (Cinere) — POSITIF,5,12,10,pelayanannya,0.03857464896419013
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,0,16,1,kecil,0.06316344148989722
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,0,16,2,kopinya,0.05275367183529008
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,0,16,3,outdoor,0.05053075319191778
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,0,16,4,kurang,0.04434349591943323
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,0,16,5,kesini,0.044257141364674804
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,0,16,6,kumpul,0.044257141364674804
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,0,16,7,cozy,0.04161152039455175
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,0,16,8,area,0.03956525387646755
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,0,16,9,banyak,0.037898064893938335
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,0,16,10,besar,0.037898064893938335
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,1,12,1,lama,0.05978749474666209
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,1,12,2,service,0.05015809354663145
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,1,12,3,pesan,0.047159723113825325
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,1,12,4,driver,0.04484062105999657
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,1,12,5,mau,0.04484062105999657
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,1,12,6,menunggu,0.04135811138733386
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,1,12,7,bayar,0.036264133634427514
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,1,12,8,diperbaiki,0.036264133634427514
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,1,12,9,parah,0.036264133634427514
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,1,12,10,mbak,0.036264133634427514
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,2,6,1,minum,0.05006438614262401
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,2,6,2,hujan,0.03308628350057999
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,2,6,3,minuman,0.03308628350057999
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,2,6,4,motor,0.031692103458231924
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,2,6,5,tanpa,0.027757391574349442
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,2,6,6,basah,0.027757391574349442
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,2,6,7,ngudud,0.027757391574349442
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,2,6,8,pintu,0.027757391574349442
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,2,6,9,bangunan,0.027757391574349442
+1,Cinere,NEG,Cabang 1 (Cinere) — NEGATIF,2,6,10,kaca,0.027757391574349442
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,0,121,1,makan,0.0733659659420179
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,0,121,2,makanannya,0.05519655665633238
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,0,121,3,minuman,0.04753182956779926
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,0,121,4,minumannya,0.03947938376584085
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,0,121,5,makan minuman,0.037852993370009407
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,0,121,6,layan,0.02792679516763763
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,0,121,7,makan minumannya,0.027179038525668917
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,0,121,8,pelayanannya,0.024657794202838364
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,0,121,9,suasana,0.024624112736812195
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,0,121,10,enakk,0.0234643035610008
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,1,96,1,layan,0.09195303252925274
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,1,96,2,kesini,0.06438202297827811
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,1,96,3,baik,0.056718239728776786
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,1,96,4,pelayanannya,0.05400379020621639
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,1,96,5,anak,0.05034052303753902
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,1,96,6,staffnya,0.05034052303753902
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,1,96,7,layan cepat,0.04185565821488271
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,1,96,8,suasananya,0.04027713994710753
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,1,96,9,layan baik,0.040199136618705604
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,1,96,10,staf,0.040199136618705604
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,2,59,1,kopinya,0.14955105238665525
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,2,59,2,kopinya kopinya,0.04878153743862099
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,2,59,3,minum,0.03517566608095922
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,2,59,4,menyenangkan,0.03244157055741167
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,2,59,5,coffee,0.03145655326227655
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,2,59,6,bola ubi,0.027829076438834026
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,2,59,7,parkir 5rb,0.027829076438834026
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,2,59,8,ubi,0.027829076438834026
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,2,59,9,kopinya suasananya,0.027829076438834026
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,2,59,10,5rb,0.027829076438834026
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,3,46,1,barang,0.17619183063138655
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,3,46,2,foto,0.13797013855941084
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,3,46,3,aesthetic mendaur,0.11832053645015658
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,3,46,4,habis aesthetic,0.11832053645015658
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,3,46,5,barang unik,0.11832053645015658
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,3,46,6,chil instagramable,0.11832053645015658
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,3,46,7,chil,0.11832053645015658
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,3,46,8,enakk kwetiaunya,0.11832053645015658
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,3,46,9,diperbaiki jakarta,0.11832053645015658
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,3,46,10,foto syumm,0.11832053645015658
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,4,43,1,nongkrong,0.23764436470905934
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,4,43,2,teman,0.17520857395187603
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,4,43,3,chill,0.11073927242968203
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,4,43,4,nongkrong nongkrong,0.10407787134621278
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,4,43,5,teman teman,0.10407787134621278
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,4,43,6,cocok nongkrong,0.07434133667586627
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,4,43,7,cocok,0.07003908069561325
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,4,43,8,nongkrong teman,0.06528925628701295
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,4,43,9,bareng,0.06204085850634073
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,4,43,10,bareng teman,0.05129251672168962
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,5,30,1,cozy,0.41178591572671536
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,5,30,2,cozy cozy,0.21425185321737406
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,5,30,3,nongkrong cozy,0.14869692712521476
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,5,30,4,cocok,0.10515421578504262
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,5,30,5,nongkrong,0.09399330225291538
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,5,30,6,cozy nongkrong,0.08921815627512886
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,5,30,7,cozy cocok,0.08921815627512886
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,5,30,8,gokil,0.07107936084058881
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,5,30,9,cozy santai,0.06593821315380674
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,5,30,10,nongki,0.050767814868378836
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,6,28,1,layan,0.3031765029350013
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,6,28,2,layan baik,0.18776467229996124
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,6,28,3,baik,0.170307736020131
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,6,28,4,baik layan,0.14072947131573393
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,6,28,5,layan layan,0.0935904301692236
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,6,28,6,rasa,0.0860130964136922
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,6,28,7,nasi goreng,0.07447697456940762
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,6,28,8,abid,0.07036473565786697
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,6,28,9,best,0.06855195524943378
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,6,28,10,goreng,0.06718105772275891
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,7,18,1,wfc,0.08514732771341843
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,7,18,2,banyak,0.048678016754387196
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,7,18,3,wifi,0.038766917222075155
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,7,18,4,musala,0.033228786190350135
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,7,18,5,cocok,0.024598655416722404
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,7,18,6,toilet,0.023852278476279663
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,7,18,7,affordable,0.023347437240257903
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,7,18,8,ambience,0.020887731888493716
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,7,18,9,indoor,0.020887731888493716
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,7,18,10,nasi,0.020887731888493716
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,8,18,1,kemang,0.10828688681447561
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,8,18,2,daur baur,0.06071482524353552
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,8,18,3,baur,0.06071482524353552
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,8,18,4,daur,0.055013424721000966
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,8,18,5,baur kemang,0.04735490824475016
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,8,18,6,spot,0.03827245101877671
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,8,18,7,area,0.03730365179876199
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,8,18,8,nongkrong,0.03288822922600338
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,8,18,9,daerah kemang,0.029136246563068603
+2,Kemang,POS,Cabang 2 (Kemang) — POSITIF,8,18,10,daerah,0.029136246563068603
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,0,16,1,lebih,0.026139524134102504
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,0,16,2,kesini,0.02533068573603549
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,0,16,3,maaf,0.024490096420614314
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,0,16,4,karyawan,0.024490096420614314
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,0,16,5,kali,0.024490096420614314
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,0,16,6,kasir,0.020626355743475995
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,0,16,7,service,0.020626355743475995
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,0,16,8,judes,0.020626355743475995
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,0,16,9,baik,0.020626355743475995
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,0,16,10,indoor,0.01959207713649145
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,1,15,1,parkir,0.16707084191559343
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,1,15,2,tukang,0.09192610858142335
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,1,15,3,motor,0.0860535471511625
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,1,15,4,hilang,0.08394303295440549
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,1,15,5,mahal,0.08394303295440549
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,1,15,6,helm,0.08394303295440549
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,1,15,7,lama,0.07883096738487157
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,1,15,8,tukang parkir,0.07487810318781837
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,1,15,9,jam,0.06104483493353894
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,1,15,10,vallet,0.060780524733339246
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,2,5,1,cabang,0.10049849139076884
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,2,5,2,renang,0.10049849139076884
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,2,5,3,nongkrong,0.09253126404875062
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,2,5,4,wfc,0.09253126404875062
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,2,5,5,tetapi,0.07898978310028267
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,2,5,6,jam,0.06729034609835646
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,2,5,7,artsy beda,0.05708110002757272
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,2,5,8,cabang indoor,0.05708110002757272
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,2,5,9,beda cabang,0.05708110002757272
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,2,5,10,bersantai,0.05708110002757272
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,3,5,1,jelek,0.16113202877454846
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,3,5,2,cari perhatian,0.11667066241916843
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,3,5,3,spvnya,0.11667066241916843
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,3,5,4,spvnya jutek,0.11667066241916843
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,3,5,5,perhatian,0.11667066241916843
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,3,5,6,jutek,0.10742135251636564
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,3,5,7,cari,0.1008794755040119
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,3,5,8,hati,0.09582102093766795
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,3,5,9,wkwk,0.08822793179941205
+2,Kemang,NEG,Cabang 2 (Kemang) — NEGATIF,3,5,10,kesini,0.08259162284048353
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,0,371,1,kopinya,0.04699286783971511
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,0,371,2,tebet,0.03908182729336403
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,0,371,3,minum,0.027190202806229066
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,0,371,4,banyak,0.023349884945634145
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,0,371,5,taman,0.020938124187330983
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,0,371,6,dekat,0.020794780289059102
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,0,371,7,park,0.019813189346475184
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,0,371,8,nongkrong,0.019191746885029896
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,0,371,9,eco,0.018942130511355217
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,0,371,10,outdoor,0.018807690065295396
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,1,111,1,nongkrong,0.17850767682596408
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,1,111,2,teman,0.0672694533942699
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,1,111,3,santai,0.060801472961993314
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,1,111,4,nongkrong nongkrong,0.05261296496344428
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,1,111,5,cocok,0.05153888972905088
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,1,111,6,harga,0.04983904946075022
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,1,111,7,adem,0.0472380630772497
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,1,111,8,terjangkau,0.04230879063999733
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,1,111,9,harga terjangkau,0.040552387278830294
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,1,111,10,nongki,0.040552387278830294
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,2,96,1,layan,0.11119199722678183
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,2,96,2,minumannya,0.10025554960468352
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,2,96,3,makan,0.08588047886453738
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,2,96,4,makanannya,0.06747837805924595
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,2,96,5,cepat,0.05841117540841031
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,2,96,6,baik,0.05354009632872087
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,2,96,7,minuman,0.053018725617978955
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,2,96,8,layan baik,0.04627570347848628
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,2,96,9,layan cepat,0.04335200496696069
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,2,96,10,teman,0.04039366702034043
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,3,86,1,strategis,0.20884996294968533
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,3,86,2,seru,0.158517780812607
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,3,86,3,instagramable,0.09986039559578166
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,3,86,4,lokasi,0.07553450817080991
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,3,86,5,lokasi strategis,0.07279328029188867
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,3,86,6,strategis lokasi,0.05993744346238114
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,3,86,7,alam,0.05624100838743345
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,3,86,8,rekomen,0.05362021293187353
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,3,86,9,unik,0.05158880582795622
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,3,86,10,foto,0.05158880582795622
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,4,52,1,adem,0.47710443708022204
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,4,52,2,adem adem,0.15525353996026797
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,4,52,3,teduh,0.12502542856408502
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,4,52,4,adem teduh,0.11030504301060058
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,4,52,5,sejuk adem,0.11030504301060058
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,4,52,6,rindang,0.09188834720788312
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,4,52,7,sejuk,0.08335028570939
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,4,52,8,suasana,0.0645809949282952
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,4,52,9,adem sejuk,0.06097135524582911
+3,Tebet,POS,Cabang 3 (Tebet) — POSITIF,4,52,10,adem menenangkan,0.06097135524582911
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,0,109,1,makan,0.02356131385371479
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,0,109,2,duduk,0.022952416498568835
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,0,109,3,tetapi,0.02285708815061382
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,0,109,4,banyak,0.021386094431010565
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,0,109,5,jam,0.021346798040140395
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,0,109,6,tebet,0.020657174848711952
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,0,109,7,parkir,0.02001946465734147
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,0,109,8,lebih,0.019957444355355458
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,0,109,9,meja,0.01976532233840746
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,0,109,10,mau,0.019009861716453837
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,1,28,1,kecil,0.17440571175364275
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,1,28,2,susah,0.14065427007648051
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,1,28,3,parkir,0.11008103941699296
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,1,28,4,parkirnya,0.07672031517001966
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,1,28,5,parkiran,0.07552571207960385
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,1,28,6,sepi,0.07377892914046234
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,1,28,7,susah kurang,0.07377892914046234
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,1,28,8,pewe,0.07377892914046234
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,1,28,9,parkiran susah,0.07377892914046234
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,1,28,10,tebet sayang,0.07377892914046234
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,2,8,1,toilet,0.4136060120826819
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,2,8,2,musala,0.27458342631327964
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,2,8,3,toiletnya,0.2612451673333289
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,2,8,4,cafe toilet,0.16279847582035417
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,2,8,5,bright,0.16279847582035417
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,2,8,6,bright kurangnya,0.16279847582035417
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,2,8,7,toiletnya menyusahkan,0.16279847582035417
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,2,8,8,toilet siang,0.16279847582035417
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,2,8,9,enggak robusta,0.16279847582035417
+3,Tebet,NEG,Cabang 3 (Tebet) — NEGATIF,2,8,10,jalan temu,0.16279847582035417
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,0,541,1,makan,0.03769234036316771
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,0,541,2,layan,0.034157201485699396
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,0,541,3,nongkrong,0.028666251347208415
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,0,541,4,pelayanannya,0.023962453147730257
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,0,541,5,ramai,0.02313029693056427
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,0,541,6,makanannya,0.022765621088633312
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,0,541,7,baik,0.02270281253519827
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,0,541,8,gandi,0.021458229693000125
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,0,541,9,cepat,0.020489743427814955
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,0,541,10,grogol,0.020401329041759963
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,1,25,1,rifka,0.1557040340324785
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,1,25,2,kakak,0.11868280079972587
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,1,25,3,baik,0.10626095633357735
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,1,25,4,kakak rifka,0.07059048317786067
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,1,25,5,best,0.06246697377696954
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,1,25,6,nabila,0.05161637069794763
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,1,25,7,j,0.046321150342755045
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,1,25,8,rifka baik,0.046321150342755045
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,1,25,9,rifka j,0.046321150342755045
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,1,25,10,saiful,0.0440862743076997
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,2,22,1,gandi,0.3219486714412525
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,2,22,2,gandi layan,0.23809383221524727
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,2,22,3,layan,0.1771287778770463
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,2,22,4,kakak gandi,0.15995836292361226
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,2,22,5,kakak,0.11212976271875943
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,2,22,6,baik,0.09411917528012412
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,2,22,7,gandi baik,0.093878597462456
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,2,22,8,best,0.08431125295051105
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,2,22,9,the best,0.07880725648883116
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,2,22,10,the,0.07770735274754974
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,3,11,1,jeje,0.49854514061048416
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,3,11,2,kakak jeje,0.2518882532737502
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,3,11,3,layan kakak,0.2013136001738989
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,3,11,4,kakak,0.18803653624647926
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,3,11,5,baik pelayanannya,0.15676886398468637
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,3,11,6,pelayanannya,0.14081639133727905
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,3,11,7,layan,0.1370939733806199
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,3,11,8,baik,0.09470015784358167
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,3,11,9,custemer baik,0.08693100819499765
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,3,11,10,jeje jeje,0.08693100819499765
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,4,10,1,live,0.3503946891199833
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,4,10,2,musik,0.32013913539388106
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,4,10,3,live musik,0.2887443554889668
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,4,10,4,musik seru,0.11867549516597752
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,4,10,5,seru,0.07592833016556758
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,4,10,6,aada live,0.06580758564294215
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,4,10,7,asbak,0.06580758564294215
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,4,10,8,boleh nongkrong,0.06580758564294215
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,4,10,9,cepat asbak,0.06580758564294215
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,4,10,10,harga recommend,0.06580758564294215
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,5,10,1,nongki,0.5673447862769132
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,5,10,2,jam,0.3712147927187015
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,5,10,3,smp jam,0.1717417478974344
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,5,10,4,seru jam,0.1717417478974344
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,5,10,5,bukanya,0.1717417478974344
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,5,10,6,bukanya nongki,0.1717417478974344
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,5,10,7,gongg smp,0.1717417478974344
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,5,10,8,jam nongki,0.1717417478974344
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,5,10,9,deal nongkrongg,0.1717417478974344
+4,Grogol,POS,Cabang 4 (Grogol) — POSITIF,5,10,10,gongg,0.1717417478974344
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,0,28,1,tolong,0.029289704538522535
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,0,28,2,mbak,0.027291272408311185
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,0,28,3,layan,0.02406924539210325
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,0,28,4,mau,0.022038669551766744
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,0,28,5,customer,0.020677316836802278
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,0,28,6,azan,0.019438030348468912
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,0,28,7,lihat,0.01887888544382345
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,0,28,8,jam,0.01825340034912184
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,0,28,9,benar,0.017929405066256253
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,0,28,10,kali,0.016794629174345346
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,1,23,1,layan,0.09518292495968103
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,1,23,2,buruk,0.08228804617894053
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,1,23,3,musik,0.0709026473074679
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,1,23,4,layan buruk,0.06747101003529785
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,1,23,5,kurang,0.06716937899643663
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,1,23,6,hujan,0.05953578403334673
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,1,23,7,buruk layan,0.0515700644001579
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,1,23,8,puter,0.0515700644001579
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,1,23,9,layan kurang,0.04771183851107236
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,1,23,10,live musik,0.041144023089470266
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,2,17,1,boti,0.16111598189807352
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,2,17,2,ramai,0.13693380655161386
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,2,17,3,banyak boti,0.10859653243667262
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,2,17,4,banyak,0.09199474941684452
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,2,17,5,malam,0.0673575149420945
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,2,17,6,bocah,0.06532208157353335
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,2,17,7,nongkrong,0.06440133691419486
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,2,17,8,risih,0.06043499544735832
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,2,17,9,duduk,0.055196849650106704
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,2,17,10,parah,0.04868343055457441
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,3,16,1,makan,0.05896115149709715
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,3,16,2,nasi,0.05365715028451203
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,3,16,3,menu,0.03577143352300802
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,3,16,4,kurang,0.0352612878122581
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,3,16,5,daging,0.03516175010214086
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,3,16,6,nasi goreng,0.03516175010214086
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,3,16,7,goreng,0.03516175010214086
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,3,16,8,telur,0.03516175010214086
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,3,16,9,dingin,0.026998746705492266
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,3,16,10,isinya,0.023481415028604683
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,4,13,1,banyak,0.1332801979356235
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,4,13,2,pelayanannya,0.06555522384896702
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,4,13,3,makan,0.06543249739312
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,4,13,4,cepat,0.06292024994414112
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,4,13,5,minusnya,0.05257630955918537
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,4,13,6,okey,0.05257630955918537
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,4,13,7,banyak sampah,0.05257630955918537
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,4,13,8,sampah,0.05257630955918537
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,4,13,9,makan minuman,0.043703482565978
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,4,13,10,layan,0.041588636898759586
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,5,10,1,lebih,0.04927866456626032
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,5,10,2,meja,0.04893993653085336
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,5,10,3,ramai,0.04760656991364577
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,5,10,4,susah,0.04739095009737331
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,5,10,5,duduk,0.04477620546837564
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,5,10,6,pesan,0.03942293165300826
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,5,10,7,penuh,0.03452079384805328
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,5,10,8,jam,0.032365643096914344
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,5,10,9,pagi,0.031793933509241895
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,5,10,10,b,0.031793933509241895
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,6,8,1,parkir,0.12451586423036126
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,6,8,2,motor,0.09791490629536055
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,6,8,3,5rb,0.08173585449847642
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,6,8,4,parkiran,0.07705705517692486
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,6,8,5,abng,0.05889695879580875
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,6,8,6,bayar parkir,0.05889695879580875
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,6,8,7,abng parkiran,0.05889695879580875
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,6,8,8,markir berjam,0.05889695879580875
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,6,8,9,mobil,0.05889695879580875
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,6,8,10,karcis,0.05889695879580875
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,7,6,1,makan,0.07173081265021176
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,7,6,2,live musik,0.06897674459117076
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,7,6,3,live,0.06897674459117076
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,7,6,4,siang,0.06897674459117076
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,7,6,5,musik,0.05943310141949516
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,7,6,6,keramaian,0.057637130800176475
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,7,6,7,bareng,0.057637130800176475
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,7,6,8,bareng teman,0.057637130800176475
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,7,6,9,nongkrong,0.05682470904193666
+4,Grogol,NEG,Cabang 4 (Grogol) — NEGATIF,7,6,10,foto,0.053324995982963225
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,0,390,1,makan,0.06273291129102751
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,0,390,2,layan,0.057919807888995097
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,0,390,3,nongkrong,0.056411439223130126
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,0,390,4,makanannya,0.03707807557155987
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,0,390,5,minumannya,0.03625966996143854
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,0,390,6,suasana,0.036045762086489956
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,0,390,7,view,0.03205328855675025
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,0,390,8,cepat,0.03092463708386211
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,0,390,9,teman,0.028951788383655305
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,0,390,10,cocok,0.02593722656927292
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,1,213,1,kopinya,0.06793536088608407
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,1,213,2,minum,0.04938132188623808
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,1,213,3,harga,0.02930353821468455
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,1,213,4,danau,0.027936153378283306
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,1,213,5,nongkrong,0.02669074421511063
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,1,213,6,makan,0.02573496335775696
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,1,213,7,teman,0.024749712352435563
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,1,213,8,view,0.024239398653936053
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,1,213,9,sore,0.024153291780277558
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,1,213,10,duduk,0.02345745070343706
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,2,53,1,danau,0.03697396525541744
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,2,53,2,senayan,0.03649286704958865
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,2,53,3,daur,0.03342898486510854
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,2,53,4,senayan park,0.027056578393640084
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,2,53,5,park,0.027056578393640084
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,2,53,6,baur,0.02459523164016456
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,2,53,7,daur baur,0.023524208648722005
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,2,53,8,menu,0.02119576046773525
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,2,53,9,makan,0.020734975766034787
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,2,53,10,minuman,0.01915863032619382
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,3,37,1,danau,0.17337659633658045
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,3,37,2,pemandangan danau,0.06462552270952568
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,3,37,3,lihat danau,0.05842345369971531
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,3,37,4,air,0.05836281257669556
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,3,37,5,pemandangan,0.054812678551149525
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,3,37,6,lihat,0.05469599733954567
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,3,37,7,sore,0.045424091948917056
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,3,37,8,view danau,0.04310915725539082
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,3,37,9,duduk,0.041793586633414176
+5,Senayan Park,POS,Cabang 5 (Senayan Park) — POSITIF,3,37,10,pinggir,0.039739455141524986
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,0,122,1,ramai,0.041717620929098295
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,0,122,2,danau,0.030937136355993114
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,0,122,3,sore,0.03015036459153793
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,0,122,4,duduk,0.02887066648448832
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,0,122,5,panas,0.024237988892597116
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,0,122,6,makan,0.02227563006372141
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,0,122,7,outdoor,0.021983254824950442
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,0,122,8,area,0.01980869035319974
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,0,122,9,nongkrong,0.019127328579243798
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,0,122,10,pekan,0.018488110996319758
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,1,29,1,nasi,0.05243132448563679
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,1,29,2,makan,0.04786000707312839
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,1,29,3,kurang,0.035557101207766534
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,1,29,4,kali,0.03304366887699675
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,1,29,5,layan,0.030530433850884064
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,1,29,6,pesan,0.026434935101597404
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,1,29,7,mau,0.02600394145891628
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,1,29,8,keras,0.02578289875679831
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,1,29,9,parkir,0.024195098289301564
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,1,29,10,kesini,0.02205472776517216
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,2,24,1,layan,0.14067110258385426
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,2,24,2,kasir,0.10743199901069664
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,2,24,3,jutek,0.08502201338120723
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,2,24,4,sopan,0.08502201338120723
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,2,24,5,lama,0.08064975861766144
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,2,24,6,waiter,0.07202230247599976
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,2,24,7,pelayan,0.06193366793177791
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,2,24,8,kurang,0.056010879622408825
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,2,24,9,layan jelek,0.051239247845774195
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,2,24,10,laki,0.051239247845774195
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,3,8,1,dikecilin,0.0687361137698705
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,3,8,2,volumenya,0.0687361137698705
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,3,8,3,musik,0.06546374977632115
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,3,8,4,bukan,0.05506669297108211
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,3,8,5,half,0.04890133539653735
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,3,8,6,kecilin,0.04890133539653735
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,3,8,7,bar,0.04890133539653735
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,3,8,8,suara,0.04890133539653735
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,3,8,9,request,0.04582407584658033
+5,Senayan Park,NEG,Cabang 5 (Senayan Park) — NEGATIF,3,8,10,speakernya,0.04582407584658033
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,0,88,1,kopinya,0.03529961609011371
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,0,88,2,lantai,0.022490827027524384
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,0,88,3,minum,0.022490827027524384
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,0,88,4,pesan,0.020884339382701213
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,0,88,5,palmerah,0.019239195205733278
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,0,88,6,harga,0.019182843720594946
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,0,88,7,goreng,0.018797963577419058
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,0,88,8,makan,0.01803107029106036
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,0,88,9,cocok,0.017442705278331912
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,0,88,10,nongkrong,0.016634461923717057
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,1,63,1,nongkrong,0.1386533256205686
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,1,63,2,nongki,0.11001178054226643
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,1,63,3,teman,0.09059812243589048
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,1,63,4,bareng,0.08800942443381314
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,1,63,5,cozy,0.07771743157094671
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,1,63,6,bareng teman,0.07217458280352529
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,1,63,7,layan,0.07011198742101496
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,1,63,8,kawan,0.06877685050248446
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,1,63,9,nugas,0.06600706832535987
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,1,63,10,cocok,0.06300245513353049
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,2,25,1,layan,0.16775260793985175
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,2,25,2,layan cepat,0.10970540570948441
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,2,25,3,cepat,0.1083780651749909
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,2,25,4,baik,0.102214862275313
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,2,25,5,pelayanannya,0.09873852223522088
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,2,25,6,karyawan,0.06601101047288908
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,2,25,7,layan layan,0.06601101047288908
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,2,25,8,suasananya,0.06106421769841196
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,2,25,9,layan baik,0.05264367412452014
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,2,25,10,cocok,0.03768551764122222
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,3,19,1,makan,0.19227308611224264
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,3,19,2,minumannya,0.09956107292503033
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,3,19,3,makan minumannya,0.08741642016576044
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,3,19,4,cozy,0.07059735631832893
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,3,19,5,nongkrong,0.06717366085965436
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,3,19,6,cozy makan,0.06683102302534732
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,3,19,7,banyak,0.0658346259261746
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,3,19,8,makanannya,0.061002662304708785
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,3,19,9,makan minuman,0.055534102890204835
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,3,19,10,harga terjangkau,0.049780536462515165
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,4,7,1,sayang,0.13212567457753738
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,4,7,2,makan,0.12643689665379604
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,4,7,3,kurang,0.10638937659909216
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,4,7,4,makan minuman,0.07912381031259273
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,4,7,5,minumannya,0.07092625106606143
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,4,7,6,parkir,0.0688817751877987
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,4,7,7,minuman,0.067057075912985
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,4,7,8,berasa dimakanan,0.05372334272568575
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,4,7,9,kedepannya diperbaiki,0.05372334272568575
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,4,7,10,dicek,0.05372334272568575
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,5,6,1,makanannya,0.29100529277209225
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,5,6,2,pelayanannya,0.28612229554384006
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,5,6,3,pelayanannya cepat,0.20850435032129527
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,5,6,4,cepat,0.15702777443132016
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,5,6,5,cepat pelayannya,0.13490528284449976
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,5,6,6,waitersnya,0.13490528284449976
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,5,6,7,cepat waitersnya,0.13490528284449976
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,5,6,8,banyak variasinya,0.13490528284449976
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,5,6,9,helpful makanannya,0.13490528284449976
+6,Palmerah,POS,Cabang 6 (Palmerah) — POSITIF,5,6,10,makanannya pelayanannya,0.13490528284449976
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,0,25,1,layan,0.06095431270252434
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,0,25,2,buruk,0.05889524945895022
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,0,25,3,jutek,0.04214330352511147
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,0,25,4,pelayan,0.03964917406240572
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,0,25,5,customer,0.03171933924992458
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,0,25,6,etika,0.030367486630886398
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,0,25,7,hujan,0.02620686458336351
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,0,25,8,pelayanannya,0.02620686458336351
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,0,25,9,staf,0.02620686458336351
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,0,25,10,mbak,0.02620686458336351
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,1,16,1,ramai,0.06066343696796528
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,1,16,2,nongkrong,0.056911086537156194
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,1,16,3,jendela,0.04401541629379281
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,1,16,4,berisik,0.04225536797643301
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,1,16,5,duduk,0.038281474406740776
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,1,16,6,full,0.035269548580992245
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,1,16,7,susah duduk,0.035269548580992245
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,1,16,8,tingkat,0.035269548580992245
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,1,16,9,ber ac,0.035269548580992245
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,1,16,10,super,0.0326425752058388
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,2,15,1,jam,0.08088886553884107
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,2,15,2,mau,0.041626670953577735
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,2,15,3,kasih,0.03966414759480321
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,2,15,4,area,0.032642997047424085
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,2,15,5,makan,0.0308148059195585
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,2,15,6,pesan,0.02600066869319836
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,2,15,7,clear,0.024512893972234724
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,2,15,8,eh,0.024512893972234724
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,2,15,9,pagi,0.024512893972234724
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,2,15,10,kesini,0.02353269472791825
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,3,15,1,lantai,0.06696706857946878
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,3,15,2,harga,0.02904020886938224
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,3,15,3,rasa,0.028276929454255185
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,3,15,4,kecil,0.026960371592645214
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,3,15,5,es,0.02665926421858803
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,3,15,6,panas,0.025722484888939797
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,3,15,7,duduk,0.021736891447970565
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,3,15,8,harganya,0.021327411374870427
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,3,15,9,cocok,0.01993023860552954
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,3,15,10,kurang,0.01942414910058512
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,4,10,1,meja,0.056486764821399596
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,4,10,2,kali,0.033720633190023205
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,4,10,3,duduk,0.032690994834129114
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,4,10,4,palmerah,0.030070463534457435
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,4,10,5,baik,0.02657926493671877
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,4,10,6,pemberitahuan,0.026287471367915368
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,4,10,7,surat pemberitahuan,0.026287471367915368
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,4,10,8,tahunan,0.026287471367915368
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,4,10,9,surat,0.026287471367915368
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,4,10,10,pemberitahuan tahunan,0.026287471367915368
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,5,9,1,almond,0.054963205149058975
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,5,9,2,americano,0.054963205149058975
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,5,9,3,brown sugar,0.054963205149058975
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,5,9,4,brown,0.054963205149058975
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,5,9,5,sugar,0.054963205149058975
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,5,9,6,payah,0.054963205149058975
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,5,9,7,oat,0.054963205149058975
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,5,9,8,jelas,0.05086939384869295
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,5,9,9,asli,0.05086939384869295
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,5,9,10,kopinya,0.0479712992729217
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,6,5,1,wifi,0.2750892559771012
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,6,5,2,tetapi,0.12940444721466482
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,6,5,3,wfc,0.11012385261750013
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,6,5,4,banyak wifi,0.06708563991664819
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,6,5,5,batasin kuotanya,0.06708563991664819
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,6,5,6,berisik dinding,0.06708563991664819
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,6,5,7,boleh bagikan,0.06708563991664819
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,6,5,8,batasin,0.06708563991664819
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,6,5,9,busuk wifi,0.06708563991664819
+6,Palmerah,NEG,Cabang 6 (Palmerah) — NEGATIF,6,5,10,busuk,0.06708563991664819
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,0,249,1,makan,0.07122948379335356
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,0,249,2,makanannya,0.060431732097574964
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,0,249,3,pelayanannya,0.04639778197996808
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,0,249,4,layan,0.04293432662932035
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,0,249,5,baik,0.04145368645661017
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,0,249,6,minuman,0.03745637895265335
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,0,249,7,minumannya,0.03191106007261303
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,0,249,8,makan minuman,0.02862370227205279
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,0,249,9,makan minumannya,0.02859136471152875
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,0,249,10,nongkrong,0.02600313562374537
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,1,135,1,banyak,0.026979714722708027
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,1,135,2,indoor,0.02506811741441912
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,1,135,3,outdoor,0.024844816923484052
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,1,135,4,monas,0.02461538848520414
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,1,135,5,kopinya,0.020617935943686813
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,1,135,6,makan,0.019654898770185985
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,1,135,7,parkiran,0.018292950545657195
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,1,135,8,rasa,0.017280135161452947
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,1,135,9,ramai,0.015975628471175393
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,1,135,10,duduk,0.015958534627328727
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,2,110,1,kopinya,0.07246248137286686
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,2,110,2,minum,0.049894552542642724
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,2,110,3,makan,0.030167689553122223
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,2,110,4,teman,0.03009014470407727
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,2,110,5,makanannya,0.02812586598663895
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,2,110,6,nongkrong,0.027125761614503783
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,2,110,7,kerja,0.020816748420281306
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,2,110,8,suasana,0.02059955813509466
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,2,110,9,layan,0.020374111773050912
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,2,110,10,makan kopinya,0.019324868068186354
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,3,76,1,nongkrong,0.15612382795903287
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,3,76,2,nongki,0.07830335066747492
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,3,76,3,teman,0.06361916308862052
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,3,76,4,bareng,0.05335718408075905
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,3,76,5,santai,0.053005237888353755
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,3,76,6,bareng teman,0.04943954250764553
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,3,76,7,cocok,0.04918200683547445
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,3,76,8,cozy,0.046004431830013646
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,3,76,9,cocok nongkrong,0.03744819935504082
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,3,76,10,recommended,0.03633349379141006
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,4,64,1,layan,0.2550223525615817
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,4,64,2,pelayanannya,0.13968027918407183
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,4,64,3,baik,0.1281388583818861
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,4,64,4,cepat,0.11021547841169568
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,4,64,5,layan cepat,0.08296578379085519
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,4,64,6,layan layan,0.08085167163391233
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,4,64,7,layan baik,0.073727575705535
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,4,64,8,pelayanannya layan,0.07333672801498359
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,4,64,9,cepat layan,0.07054772700479811
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,4,64,10,layan makan,0.0682534449598878
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,5,37,1,foto,0.15211508346602967
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,5,37,2,asikk meni,0.13646666294674745
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,5,37,3,asyk elegan,0.13646666294674745
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,5,37,4,asyk,0.13646666294674745
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,5,37,5,foto kesana,0.13646666294674745
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,5,37,6,bangku banyak,0.13646666294674745
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,5,37,7,elegan,0.13646666294674745
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,5,37,8,banyak suasananya,0.13646666294674745
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,5,37,9,elegan tenang,0.13646666294674745
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,5,37,10,humble sejuk,0.13646666294674745
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,6,36,1,layan,0.1230155574115198
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,6,36,2,makan,0.07121559503606795
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,6,36,3,baik,0.06072615906974435
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,6,36,4,staf,0.05728425983901756
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,6,36,5,pelayanannya,0.05430119488475495
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,6,36,6,terima kasih,0.04981531200474318
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,6,36,7,terima,0.04981531200474318
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,6,36,8,minuman,0.049383396237935175
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,6,36,9,bantu,0.04914779021222433
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,6,36,10,kasih,0.04914779021222433
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,7,32,1,parkiran,0.11436585112132246
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,7,32,2,parkir,0.06804410812671655
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,7,32,3,strategis,0.05079566124525697
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,7,32,4,nongkrong,0.05039547772723417
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,7,32,5,ramai,0.046097614977895406
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,7,32,6,malam,0.045440752467886966
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,7,32,7,non,0.037684197563250074
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,7,32,8,parkirnya,0.036303382018835616
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,7,32,9,lokasinya,0.035697839128708254
+7,Abdul Muis,POS,Cabang 7 (Abdul Muis) — POSITIF,7,32,10,dekat,0.0341291927666084
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,0,53,1,meja,0.03738065327283103
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,0,53,2,mau,0.03209057128157788
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,0,53,3,makan,0.032003504454354806
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,0,53,4,kasir,0.03198938353152514
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,0,53,5,customer,0.03045380364233052
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,0,53,6,benar,0.023810641982076195
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,0,53,7,ambil,0.02253375759458604
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,0,53,8,tolong,0.022309908938918606
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,0,53,9,kursi,0.021231996066841133
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,0,53,10,tetapi,0.020008412560491885
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,1,49,1,nasi,0.04718105542726886
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,1,49,2,kurang,0.03941951869161844
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,1,49,3,makan,0.037368156851103645
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,1,49,4,harga,0.02631502602963512
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,1,49,5,rasa,0.026049652710764575
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,1,49,6,goreng,0.0209051395969618
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,1,49,7,monas,0.019221232957248955
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,1,49,8,pesan,0.019096933499946456
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,1,49,9,garam,0.018779396488835587
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,1,49,10,dingin,0.01713452165596299
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,2,39,1,ramai,0.09304180031648007
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,2,39,2,duduk,0.0765534891608463
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,2,39,3,malam,0.04447695864162159
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,2,39,4,tetapi,0.042816514194010724
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,2,39,5,pindah,0.042191630668416545
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,2,39,6,penuh,0.03644952288971846
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,2,39,7,banyak,0.031883166207549406
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,2,39,8,crowded,0.02791868177599357
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,2,39,9,cari,0.027245345492013434
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,2,39,10,duduk disuruh,0.02553592254834766
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,3,22,1,lama,0.16333745645397565
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,3,22,2,menunggu,0.09798589513778964
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,3,22,3,layan,0.07631512273781361
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,3,22,4,menit,0.07061314688891646
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,3,22,5,jam,0.0641189614529329
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,3,22,6,menunggu lama,0.062236149288048645
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,3,22,7,layan lama,0.05698355562572968
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,3,22,8,order,0.054651201795663004
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,3,22,9,antrean,0.05395638478332625
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,3,22,10,lama lama,0.04672552224128427
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,4,17,1,panas,0.15218717343031732
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,4,17,2,siang,0.11113607845573321
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,4,17,3,siang panas,0.0911282864697182
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,4,17,4,mengobrol,0.07290262917577454
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,4,17,5,nongkrong,0.07097836381786966
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,4,17,6,outdoor,0.06677686448002391
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,4,17,7,ac,0.06416331022172006
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,4,17,8,panas banyak,0.06368638796587857
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,4,17,9,malam,0.06341132226263221
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,4,17,10,sore,0.062150414449753055
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,5,14,1,outdoor,0.049185580390266624
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,5,14,2,panas,0.042035972215516866
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,5,14,3,kurang,0.04109428854428767
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,5,14,4,lebih,0.04106802389249553
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,5,14,5,malam,0.037365308636015
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,5,14,6,siang,0.03581334638309752
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,5,14,7,banyak,0.035713603388447646
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,5,14,8,kopinya,0.03433342030218992
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,5,14,9,nongkrong,0.03136815764008603
+7,Abdul Muis,NEG,Cabang 7 (Abdul Muis) — NEGATIF,5,14,10,rasa,0.025067439774599038
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,0,57,1,nongkrong,0.1608715299763651
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,0,57,2,teman,0.05773144761753658
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,0,57,3,bareng,0.05429598610950543
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,0,57,4,suasananya,0.040721989582129074
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,0,57,5,nongkrong nongkrong,0.03621696021843319
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,0,57,6,musik,0.03621696021843319
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,0,57,7,service,0.033554274706590906
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,0,57,8,kumpul,0.033554274706590906
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,0,57,9,nongkrong bareng,0.031669006797475856
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,0,57,10,benar,0.031669006797475856
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,1,26,1,kopinya,0.1158465844641909
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,1,26,2,cafe,0.06928309790350315
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,1,26,3,cozy,0.06348743182461423
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,1,26,4,anak,0.057721022581493905
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,1,26,5,minum,0.057721022581493905
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,1,26,6,makan,0.044578802196999556
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,1,26,7,minuman,0.043290766936120426
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,1,26,8,anak muda,0.03961638608731139
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,1,26,9,worth,0.03961638608731139
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,1,26,10,gula,0.03961638608731139
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,2,22,1,parkiran,0.050414893146629135
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,2,22,2,makan,0.038936170027018976
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,2,22,3,indoor,0.038545950626523585
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,2,22,4,banyak,0.038545950626523585
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,2,22,5,parkir,0.038545950626523585
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,2,22,6,mobil,0.033473896614907114
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,2,22,7,outdoor,0.032771046484021495
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,2,22,8,indoor outdoor,0.031686520027780433
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,2,22,9,ruangan,0.03059030815710151
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,2,22,10,motor,0.02880851036950236
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,3,13,1,ciracas,0.036249780724436
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,3,13,2,kurang,0.03337097657877604
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,3,13,3,area,0.032624802651992406
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,3,13,4,makan,0.02710608631149266
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,3,13,5,rasa,0.02659220804253983
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,3,13,6,lantai,0.024075634816361186
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,3,13,7,teman,0.02389237080913075
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,3,13,8,ac,0.023398131592790944
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,3,13,9,outdoor,0.021293187276447134
+8,Ciracas,POS,Cabang 8 (Ciracas) — POSITIF,3,13,10,indoor,0.020871222046556673
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,0,32,1,kurang,0.036330628884638345
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,0,32,2,hujan,0.03411788570217884
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,0,32,3,harga,0.032799939843647576
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,0,32,4,makan,0.02902359915122531
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,0,32,5,cocok,0.027441033152170488
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,0,32,6,minuman,0.02676145939842179
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,0,32,7,banyak,0.026147746845650743
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,0,32,8,outdoor,0.026147746845650743
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,0,32,9,ramai,0.02507474274321509
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,0,32,10,pagi,0.025068460164464748
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,1,16,1,order,0.046097152908779214
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,1,16,2,teman,0.04577149629866567
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,1,16,3,reserved,0.039927043848111604
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,1,16,4,pesan,0.03506098875668162
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,1,16,5,layan,0.03506098875668162
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,1,16,6,lihat,0.033425329706587646
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,1,16,7,bad,0.033425329706587646
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,1,16,8,mau,0.030731435272519477
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,1,16,9,jam,0.029709965747701524
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,1,16,10,iya,0.02650606784376333
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,2,11,1,parkir,0.1376759832232404
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,2,11,2,susah,0.11441493685114863
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,2,11,3,buka,0.1032569874174303
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,2,11,4,toko,0.09085543466675058
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,2,11,5,sempit,0.08439532001454245
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,2,11,6,susah parkir,0.08439532001454245
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,2,11,7,parkiran,0.0798196873393313
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,2,11,8,lama,0.07627662456743242
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,2,11,9,kesini,0.07094739820551124
+8,Ciracas,NEG,Cabang 8 (Ciracas) — NEGATIF,2,11,10,tetapi,0.06698051292076458
