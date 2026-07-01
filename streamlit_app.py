@@ -21,44 +21,119 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+THEME = {
+    "app_bg": "#F6F8FB",
+    "sidebar_bg": "#EEF2F7",
+    "sidebar_border": "#D9E0EA",
+    "card_bg": "#FFFFFF",
+    "card_soft": "#F8FAFC",
+    "text": "#18202A",
+    "muted": "#637085",
+    "border": "#D9E0EA",
+    "accent": "#FF6B5A",
+    "grid": "#E6EAF0",
+    "paper_bg": "#FFFFFF",
+    "plot_bg": "#FAFAFA",
+    "legend_bg": "rgba(255,255,255,0.88)",
+    "badge_border": "#E2E8F0",
+    "table_bg": "#FFFFFF",
+}
+
+def soft_card_style(bg=None, text=None, border=None):
+    return (
+        f"background:{bg or THEME['card_bg']};"
+        f"color:{text or THEME['text']};"
+        f"border:1px solid {border or THEME['border']};"
+        "border-radius:10px;"
+    )
+
 st.markdown("""
 <style>
-    /* Sidebar bersih */
-    [data-testid="stSidebar"] { background-color: #1C1C2E; }
-    [data-testid="stSidebar"] * { color: #E8E8F0 !important; }
-    [data-testid="stSidebar"] h2, [data-testid="stSidebar"] h3 { color: #FFFFFF !important; }
-    [data-testid="stSidebar"] hr { border-color: #3A3A5C !important; }
+    :root {
+        --app-bg: %s;
+        --sidebar-bg: %s;
+        --sidebar-border: %s;
+        --card-bg: %s;
+        --card-soft: %s;
+        --text-color: %s;
+        --muted-text: %s;
+        --border-color: %s;
+        --accent-color: %s;
+        --grid-color: %s;
+    }
+
+    .stApp, [data-testid="stAppViewContainer"] {
+        background: var(--app-bg);
+        color: var(--text-color);
+    }
+
+    [data-testid="stSidebar"] {
+        background: var(--sidebar-bg);
+        border-right: 1px solid var(--sidebar-border);
+    }
+    [data-testid="stSidebar"] * { color: var(--text-color) !important; }
+    [data-testid="stSidebar"] h1,
+    [data-testid="stSidebar"] h2,
+    [data-testid="stSidebar"] h3,
+    [data-testid="stSidebar"] h4,
+    [data-testid="stSidebar"] h5,
+    [data-testid="stSidebar"] h6 { color: var(--text-color) !important; }
+    [data-testid="stSidebar"] hr { border-color: var(--sidebar-border) !important; }
+
+    [data-testid="stMarkdownContainer"] p,
+    [data-testid="stMarkdownContainer"] li,
+    [data-testid="stMarkdownContainer"] span {
+        color: var(--text-color);
+    }
+
+    [data-testid="stMetric"] {
+        background: var(--card-bg);
+        border: 1px solid var(--border-color);
+        border-radius: 14px;
+        padding: 12px 16px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+    }
+    [data-testid="stMetricValue"],
+    [data-testid="stMetricDelta"],
+    [data-testid="stMetricLabel"] {
+        color: var(--text-color) !important;
+    }
+
     /* Sembunyikan tombol collapse sidebar yang mengganggu */
     [data-testid="collapsedControl"] { display: none; }
     /* Tab styling */
     .stTabs [data-baseweb="tab-list"] {
         gap: 0px;
-        border-bottom: 2px solid #E8E8E8;
+        border-bottom: 2px solid var(--border-color);
     }
     .stTabs [data-baseweb="tab"] {
         padding: 10px 28px;
         font-size: 14px;
         font-weight: 500;
-        color: #666;
+        color: var(--muted-text);
         border-bottom: 2px solid transparent;
         background: transparent;
     }
     .stTabs [aria-selected="true"] {
-        color: #1C1C2E !important;
-        border-bottom-color: #1C1C2E !important;
+        color: var(--text-color) !important;
+        border-bottom-color: var(--accent-color) !important;
         font-weight: 600;
-    }
-    /* Metric card */
-    [data-testid="stMetric"] {
-        background: #F8F9FB;
-        border: 1px solid #E8ECF0;
-        border-radius: 8px;
-        padding: 12px 16px;
     }
     /* Hilangkan tombol collapse */
     button[kind="header"] { display: none !important; }
 </style>
-""", unsafe_allow_html=True)
+""" % (
+    THEME["app_bg"],
+    THEME["sidebar_bg"],
+    THEME["sidebar_border"],
+    THEME["card_bg"],
+    THEME["card_soft"],
+    THEME["text"],
+    THEME["muted"],
+    THEME["border"],
+    THEME["accent"],
+    THEME["grid"],
+), unsafe_allow_html=True)
 
 # ─── Konstanta ─────────────────────────────────────────────────────────────
 BOBOT_W = {
@@ -86,6 +161,26 @@ def status(s):
 STATUS_WARNA  = {"Aman":"#F5E08C", "Waspada":"#F2994A", "Kritis":"#C0392B"}
 STATUS_BG     = {"Kritis":"#FDECEA", "Waspada":"#FEF0E7", "Aman":"#EAFAF1"}
 STATUS_FG     = {"Kritis":"#C0392B", "Waspada":"#D35400", "Aman":"#1E8449"}
+
+def _chart_layout(fig, height, margin, xgrid=False, ygrid=True, legend_orientation="h"):
+    fig.update_layout(
+        template="plotly_white",
+        height=height,
+        margin=margin,
+        paper_bgcolor=THEME["paper_bg"],
+        plot_bgcolor=THEME["plot_bg"],
+        font=dict(color=THEME["text"]),
+        legend=dict(
+            bgcolor=THEME["legend_bg"],
+            bordercolor=THEME["border"],
+            borderwidth=1,
+            font=dict(size=12, color=THEME["text"]),
+            orientation=legend_orientation,
+        ),
+    )
+    fig.update_xaxes(showgrid=xgrid, gridcolor=THEME["grid"], zeroline=False)
+    fig.update_yaxes(showgrid=ygrid, gridcolor=THEME["grid"], zeroline=False)
+    return fig
 
 # ─── Load data ──────────────────────────────────────────────────────────────
 @st.cache_data
@@ -139,12 +234,12 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("**Panduan Status AIS**")
     st.markdown(
-        "<span style='color:#F5E08C;font-size:18px'>●</span>&nbsp; "
-        "<b style='color:#fff'>Aman</b>&nbsp; AIS ≤ 0.050<br>"
-        "<span style='color:#F2994A;font-size:18px'>●</span>&nbsp; "
-        "<b style='color:#fff'>Waspada</b>&nbsp; 0.051 – 0.100<br>"
-        "<span style='color:#C0392B;font-size:18px'>●</span>&nbsp; "
-        "<b style='color:#fff'>Kritis</b>&nbsp; AIS > 0.100",
+        f"<span style='color:#F5E08C;font-size:18px'>●</span>&nbsp; "
+        f"<b style='color:{THEME['text']}'>Aman</b>&nbsp; AIS ≤ 0.050<br>"
+        f"<span style='color:#F2994A;font-size:18px'>●</span>&nbsp; "
+        f"<b style='color:{THEME['text']}'>Waspada</b>&nbsp; 0.051 – 0.100<br>"
+        f"<span style='color:#C0392B;font-size:18px'>●</span>&nbsp; "
+        f"<b style='color:{THEME['text']}'>Kritis</b>&nbsp; AIS > 0.100",
         unsafe_allow_html=True,
     )
     
@@ -215,18 +310,20 @@ with tab1:
         height=370, margin=dict(l=10, r=10, t=10, b=10),
         xaxis=dict(side="bottom", tickfont=dict(size=12)),
         yaxis=dict(tickfont=dict(size=12)),
-        plot_bgcolor="#fff",
+        paper_bgcolor=THEME["paper_bg"],
+        plot_bgcolor=THEME["plot_bg"],
+        font=dict(color=THEME["text"]),
     )
     st.plotly_chart(fig_hm, use_container_width=True)
     st.markdown(
-        "<div style='display:flex;gap:12px;margin-top:2px;margin-bottom:4px;'>"
-        "<span style='background:#F5E08C;color:#7D6608;padding:4px 12px;border-radius:20px;"
-        "font-size:12px;font-weight:600;'>Aman &nbsp; AIS ≤ 0.050</span>"
-        "<span style='background:#F2994A;color:#fff;padding:4px 12px;border-radius:20px;"
-        "font-size:12px;font-weight:600;'>Waspada &nbsp; 0.051 – 0.100</span>"
-        "<span style='background:#C0392B;color:#fff;padding:4px 12px;border-radius:20px;"
-        "font-size:12px;font-weight:600;'>Kritis &nbsp; AIS > 0.100</span>"
-        "</div>",
+        f"<div style='display:flex;gap:12px;flex-wrap:wrap;margin-top:2px;margin-bottom:4px;'>"
+        f"<span style='background:#F5E08C;color:#7D6608;padding:4px 12px;border-radius:20px;"
+        f"font-size:12px;font-weight:600;border:1px solid {THEME['badge_border']};'>Aman &nbsp; AIS ≤ 0.050</span>"
+        f"<span style='background:#F2994A;color:#fff;padding:4px 12px;border-radius:20px;"
+        f"font-size:12px;font-weight:600;border:1px solid {THEME['badge_border']};'>Waspada &nbsp; 0.051 – 0.100</span>"
+        f"<span style='background:#C0392B;color:#fff;padding:4px 12px;border-radius:20px;"
+        f"font-size:12px;font-weight:600;border:1px solid {THEME['badge_border']};'>Kritis &nbsp; AIS > 0.100</span>"
+        f"</div>",
         unsafe_allow_html=True,
     )
 
@@ -292,23 +389,25 @@ with tab1:
         fig_b.add_annotation(x=1, xref="paper", y=0.050, yref="y",
                               text="Batas Aman / Waspada", showarrow=False,
                               font=dict(size=11, color="#E67E22"),
-                              bgcolor="rgba(255,255,255,0.7)", xanchor="right", yanchor="bottom")
+                              bgcolor=THEME["legend_bg"], xanchor="right", yanchor="bottom")
         fig_b.add_annotation(x=1, xref="paper", y=0.100, yref="y",
                               text="Batas Waspada / Kritis", showarrow=False,
                               font=dict(size=11, color="#C0392B"),
-                              bgcolor="rgba(255,255,255,0.7)", xanchor="right", yanchor="bottom")
+                              bgcolor=THEME["legend_bg"], xanchor="right", yanchor="bottom")
         fig_b.update_layout(
             height=370, margin=dict(l=10,r=10,t=44,b=10),
             showlegend=True,
             legend=dict(
                 orientation="v", x=0.01, y=0.99,
                 xanchor="left", yanchor="top",
-                bgcolor="rgba(255,255,255,0.85)",
-                bordercolor="#DDD", borderwidth=1,
-                font=dict(size=12), title=None,
+                bgcolor=THEME["legend_bg"],
+                bordercolor=THEME["border"], borderwidth=1,
+                font=dict(size=12, color=THEME["text"]), title=None,
             ),
-            plot_bgcolor="#FAFAFA",
-            yaxis=dict(gridcolor="#EEE", gridwidth=1),
+            paper_bgcolor=THEME["paper_bg"],
+            plot_bgcolor=THEME["plot_bg"],
+            font=dict(color=THEME["text"]),
+            yaxis=dict(gridcolor=THEME["grid"], gridwidth=1),
         )
         st.plotly_chart(fig_b, use_container_width=True)
 
@@ -385,9 +484,11 @@ with tab2:
             barmode="group", height=360,
             margin=dict(l=10,r=10,t=48,b=10),
             yaxis_title="Jumlah Ulasan",
-            plot_bgcolor="#FAFAFA",
-            yaxis=dict(gridcolor="#EEE"),
-            legend=dict(orientation="h", y=1.12, x=0),
+            paper_bgcolor=THEME["paper_bg"],
+            plot_bgcolor=THEME["plot_bg"],
+            font=dict(color=THEME["text"]),
+            yaxis=dict(gridcolor=THEME["grid"]),
+            legend=dict(orientation="h", y=1.12, x=0, bgcolor=THEME["legend_bg"], bordercolor=THEME["border"], borderwidth=1),
             showlegend=True,
         )
         fig.update_xaxes(tickangle=-25, automargin=True)
@@ -414,14 +515,14 @@ with tab2:
 
     # % Negatif: legend badge seperti heatmap AIS
     st.markdown(
-        "<div style='display:flex;gap:10px;flex-wrap:wrap;margin-top:2px;margin-bottom:10px;'>"
-        "<span style='background:#FDECEA;color:#C0392B;padding:4px 12px;border-radius:20px;"
-        "font-size:12px;font-weight:600;border:1px solid #F5B7B1;'>merah = tekanan tinggi (>40%)</span>"
-        "<span style='background:#FFF3E0;color:#BF6000;padding:4px 12px;border-radius:20px;"
-        "font-size:12px;font-weight:600;border:1px solid #F8C471;'>oranye = perlu perhatian (>20%)</span>"
-        "<span style='background:#F8F9FB;color:#5D6D7E;padding:4px 12px;border-radius:20px;"
-        "font-size:12px;font-weight:600;border:1px solid #E8ECF0;'>putih = kondisi normal</span>"
-        "</div>",
+        f"<div style='display:flex;gap:10px;flex-wrap:wrap;margin-top:2px;margin-bottom:10px;'>"
+        f"<span style='background:#FDECEA;color:#C0392B;padding:4px 12px;border-radius:20px;"
+        f"font-size:12px;font-weight:600;border:1px solid {THEME['badge_border']};'>merah = tekanan tinggi (&gt;40%)</span>"
+        f"<span style='background:#FFF3E0;color:#BF6000;padding:4px 12px;border-radius:20px;"
+        f"font-size:12px;font-weight:600;border:1px solid {THEME['badge_border']};'>oranye = perlu perhatian (&gt;20%)</span>"
+        f"<span style='background:{THEME['card_bg']};color:{THEME['muted']};padding:4px 12px;border-radius:20px;"
+        f"font-size:12px;font-weight:600;border:1px solid {THEME['badge_border']};'>normal = kondisi aman</span>"
+        f"</div>",
         unsafe_allow_html=True,
     )
 
@@ -508,7 +609,9 @@ with tab3:
                            title="D1", tickfont=dict(size=10)),
                 yaxis=dict(range=[-1.25,1.25], showgrid=False, zeroline=False,
                            title="D2", tickfont=dict(size=10)),
-                plot_bgcolor="#FAFAFA",
+                paper_bgcolor=THEME["paper_bg"],
+                plot_bgcolor=THEME["plot_bg"],
+                font=dict(color=THEME["text"]),
             )
             st.plotly_chart(fig_d, use_container_width=True)
             st.caption("Ukuran gelembung proporsional dengan jumlah dokumen. Hover untuk detail.")
@@ -518,11 +621,10 @@ with tab3:
             for _, row in df_ko.sort_values("doc_count", ascending=False).iterrows():
                 tid  = int(row["topic_id"]); ndok = int(row["doc_count"])
                 st.markdown(
-                    f'<div style="border:1.5px solid {CLR_DARK};border-radius:8px;'
-                    f'padding:10px 14px;margin-bottom:8px;background:#fff;">'
+                    f'<div style="{soft_card_style(bg=THEME["card_bg"], text=THEME["text"], border=CLR_DARK)}padding:10px 14px;margin-bottom:8px;">'
                     f'<span style="color:{CLR_DARK};font-weight:700;font-size:13px;">'
                     f'Topik {tid}&nbsp;&nbsp;|&nbsp;&nbsp;{ndok} dokumen</span><br>'
-                    f'<span style="color:#555;font-size:12px;">{row["top5_keywords"]}</span></div>',
+                    f'<span style="color:{THEME["muted"]};font-size:12px;">{row["top5_keywords"]}</span></div>',
                     unsafe_allow_html=True,
                 )
 
@@ -570,12 +672,14 @@ with tab3:
                     hovertemplate="<b>%{y}</b><br>c-TF-IDF: %{x:.4f}<extra></extra>",
                 ), row=ri, col=ci)
                 fig_kw.update_yaxes(autorange="reversed", row=ri, col=ci)
-                fig_kw.update_xaxes(showgrid=True, gridcolor="#EEE", row=ri, col=ci)
+                fig_kw.update_xaxes(showgrid=True, gridcolor=THEME["grid"], row=ri, col=ci)
 
             fig_kw.update_layout(
                 height=max(340, nr*310),
                 margin=dict(l=10,r=30,t=44,b=10),
-                plot_bgcolor="#FAFAFA",
+                paper_bgcolor=THEME["paper_bg"],
+                plot_bgcolor=THEME["plot_bg"],
+                font=dict(color=THEME["text"]),
             )
             st.plotly_chart(fig_kw, use_container_width=True)
 
