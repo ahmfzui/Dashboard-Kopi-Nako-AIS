@@ -443,6 +443,11 @@ def _hapus_data_tambahan():
             os.remove(p)
 
 
+def _reset_simulasi_upload():
+    _hapus_data_tambahan()
+    st.session_state.pop("uploader_csv", None)
+
+
 def load_data_tambahan(ref_date):
     """Dibaca ulang dari disk setiap rerun (tanpa cache) supaya langsung
     konsisten begitu ada upload baru atau setelah dihapus."""
@@ -584,11 +589,12 @@ with st.sidebar:
             st.caption("Riwayat data tambahan (tersimpan):")
             for l in _log_upload:
                 st.markdown(f"- `{l['nama_file']}` — {l['baris']:,} baris")
-            if st.button("Hapus data tambahan (reset simulasi)", key="btn_reset_upload", use_container_width=True):
-                _hapus_data_tambahan()
-                if "uploader_csv" in st.session_state:
-                    st.session_state["uploader_csv"] = None
-                st.rerun()
+            st.button(
+                "Hapus data tambahan (reset simulasi)",
+                key="btn_reset_upload",
+                use_container_width=True,
+                on_click=_reset_simulasi_upload,
+            )
 
 # ─── Gabungkan data dasar + data tambahan mode simulasi ─────────────────────
 _base_path = _DATA_PATH_SIMULASI if st.session_state.get("mode_simulasi") else _DATA_PATH_PRODUKSI
