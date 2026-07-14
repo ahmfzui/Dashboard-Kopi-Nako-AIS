@@ -586,6 +586,8 @@ with st.sidebar:
                 st.markdown(f"- `{l['nama_file']}` — {l['baris']:,} baris")
             if st.button("Hapus data tambahan (reset simulasi)", key="btn_reset_upload", use_container_width=True):
                 _hapus_data_tambahan()
+                if "uploader_csv" in st.session_state:
+                    st.session_state["uploader_csv"] = None
                 st.rerun()
 
 # ─── Gabungkan data dasar + data tambahan mode simulasi ─────────────────────
